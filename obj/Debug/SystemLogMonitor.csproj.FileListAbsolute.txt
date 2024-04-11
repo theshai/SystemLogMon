@@ -1,0 +1,7 @@
+C:\Users\shai\source\repos\SystemLogMonitor\SystemLogMonitor\bin\Debug\SystemLogMonitor.exe
+C:\Users\shai\source\repos\SystemLogMonitor\SystemLogMonitor\bin\Debug\SystemLogMonitor.pdb
+C:\Users\shai\source\repos\SystemLogMonitor\SystemLogMonitor\obj\Debug\SystemLogMonitor.csprojAssemblyReference.cache
+C:\Users\shai\source\repos\SystemLogMonitor\SystemLogMonitor\obj\Debug\SystemLogMonitor.csproj.CoreCompileInputs.cache
+C:\Users\shai\source\repos\SystemLogMonitor\SystemLogMonitor\obj\Debug\SystemLogMonitor.exe
+C:\Users\shai\source\repos\SystemLogMonitor\SystemLogMonitor\obj\Debug\SystemLogMonitor.pdb
+C:\Users\shai\source\repos\SystemLogMonitor\SystemLogMonitor\bin\Debug\SystemLogMonitor.exe.config
